@@ -1,0 +1,1 @@
+import{j as o,b as a}from"./index-miXqpNT6.js";const d=({children:r,className:s})=>o.jsx("div",{className:a("rounded-base border border-secondary/10 bg-white/80 shadow-sm backdrop-blur-sm p-6",s),children:r});export{d as C};

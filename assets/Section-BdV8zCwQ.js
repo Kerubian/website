@@ -1,0 +1,1 @@
+import{j as x}from"./index-miXqpNT6.js";const r=({id:t,children:m,className:p,style:o,fullWidth:s})=>x.jsx("section",{id:t,style:o,className:(s?"w-full px-4 py-12 sm:py-16 md:py-20 ":"mx-auto max-w-container px-4 py-12 sm:py-16 md:py-20 ")+(p||""),children:m});export{r as S};
