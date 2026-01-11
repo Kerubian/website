@@ -1,0 +1,39 @@
+### Node / Vite / React / TypeScript
+node_modules/
+dist/
+build/
+
+# Vite cache
+vite.config.ts.timestamp*
+*.tsbuildinfo
+
+### Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+### Environment variables
+.env
+.env.*
+!.env.example
+
+### Editor / OS
+.DS_Store
+Thumbs.db
+
+*.swp
+*.swo
+*.log
+
+/.vscode/
+/.idea/
+
+### TypeScript
+*.tsbuildinfo
+
+### Misc
+coverage/
+*.local
+
